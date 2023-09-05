@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there, I´m Schwank, a creative from germany 👋
 
 <!--
-**schwankd/schwankd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on
+    my homelab, my own scripts for automation, and a bunch of todos on my list.
+    
+- 🌱 I’m currently learning
+    apprenticeship as an photographer at day ☀, network and server things at night ☾.
+    
+- 👯 I’m looking to collaborate on
+    cool new projects
+    
+- 🤔 I’m looking for help with
+    getting into programming.
+    
+- 💬 Ask me about
+    my photos or videos.
+    
+- 📫 How to reach me: 
+    Web: shotbyschwank.com
+    Mail: kontakt@shotbyschwank.com
+    
+- 😄 Pronouns:
+    he/him
+    
+- ⚡ Fun fact:
+    im currently managing a group of artists (mostly rap music) and doing some filmmaking-stuff, working on another side project designing tshirts.
+    
 -->
