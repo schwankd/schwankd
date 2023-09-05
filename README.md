@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on
-    my homelab, my own scripts for automation, and a bunch of todos on my list.
+    my homelab,i got a own server/technic-forum im working on, my own scripts for automation, and a bunch of todos on my list.
     
 - 🌱 I’m currently learning
     apprenticeship as an photographer at day ☀, network and server things at night ☾.
@@ -26,3 +26,6 @@
 - ⚡ Fun fact:
     im currently managing a group of artists (mostly rap music) and doing some filmmaking-stuff, working on another side project designing tshirts.
 
+- 🗒️ Check out:
+    my forum: https://schwanksserversammlung.com
+    my portfolio: https://shotbyschwank.com
