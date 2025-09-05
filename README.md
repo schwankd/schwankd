@@ -5,7 +5,7 @@ Im into Warhammer, art, cooking, servers, my girlfirend, nature, and solving pro
 - 🔭 I’m currently working on
     my homelab,i got a own server/technic-forum im working on, my own scripts for automation, and a bunch of todos on my list.
     
-- 🌱 I’m currently learning
+- 🌱 I’m currently
     working, school and webdesign at day ☀, network and server things at night ☾.
     
 - 👯 I’m looking to collaborate on
